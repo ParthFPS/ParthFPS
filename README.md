@@ -49,7 +49,7 @@
 
 #### 🎯 Areas of Interest
 - DevOps, CI/CD, Spring Boot, OOPS, UI/UX Design, Cybersecurity  
-- Photography, Competitive Gaming, Game Design, Open Source
+- Photography, Competitive Gaming
 
 ---
 
