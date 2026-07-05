@@ -1,15 +1,15 @@
-<h1 align="center">Hey 
-  There! 👋, I'm Parth Sharma</h1>
-<h3 align="center">Cloud Engineer | Cybersecurity Enthusiast | UI/UX Designer | DevOps | Gamer</h3>
+<h1 align="center">Hey There! 👋, I'm Parth Sharma</h1>
+<h3 align="center">Software Engineer @ Wipro | AI & Cloud Developer | Cybersecurity Enthusiast | UI/UX Designer</h3>
 
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Final Year B.Tech CSE Student at VIT Chennai (CGPA: 8.32)
+- 💼 **Project Engineer at Wipro Limited**, Bengaluru — Working on AI development, forecasting solutions, and scalable full-stack web applications.
+- 🎓 **B.Tech Computer Science Graduate** from VIT Chennai (CGPA: 8.34)
 - ☁️ Former Cloud Engineer Intern at **Wipro Limited**, Gurugram
 - 🔐 Passionate about **Cybersecurity**, **DevOps**, and **UI/UX Design**
 - 🎮 Content Creator with **1.4M+ views** on gaming clips | Top Creator @ MOJ INDIA
-- 📸 Photographer/Vidographer at DPSRU Delhi & VIT Chennai events (Sonu Nigam, Benny Dayal)
+- 📸 Photographer/Videographer at DPSRU Delhi & VIT Chennai events (Sonu Nigam, Benny Dayal)
 
 ---
 
@@ -48,21 +48,31 @@
 </p>
 
 #### 🎯 Areas of Interest
-- DevOps, CI/CD, Spring Boot, OOPS, UI/UX Design, Cybersecurity  
+- AI Development, Data-Driven Platforms, DevOps, CI/CD
+- Spring Boot, OOPS, UI/UX Design, Cybersecurity  
 - Photography, Competitive Gaming
 
 ---
 
+### 🔬 Featured Projects & Research
+- ☁️ **Homomorphic Cryptosystem on Cloud Environments** - Capstone Project & IEEE Research Paper (Published Jan 2025)
+- 🧠 **Brain-Computer Interface with EEG Inputs** - Hardware Design achieving 80%+ accuracy translating brain waves to morse code
+- 🔐 **Password Manager** - Built utilizing advanced cryptographic algorithms (SHA-256 and AES)
+
+---
+
 ### 🏆 Achievements
+- 🏆 **1st Prize** – Google Gemini Enterprise Day Hackathon (June 2026)
+- 🏆 **Champion's Trophy** – Wipro, for outstanding performance and teamwork (April 2026)
 - 🏅 **Top 25/400** – KRYPTHON Hackathon, NSUT
 - 🏅 **9th Place** – ByteVerse, NIT Patna (UI/UX)
-- 🏆 **Winner** – GREE Photography Competition
 - 🎮 **LAN Valorant Champion** – ₹17,000 prize
-- 📸 Featured in *The Statesman* for pet photography
+- 📸 **Winner** – GREE Photography Competition & Featured in *The Statesman*
 
 ---
 
 ### 📜 Certifications
+- ✅ **AWS Certified AI Practitioner** – Amazon Web Services (June 2026)
 - ✅ **AWS Certified Solutions Architect – SAA-C03** - Udemy
 - ✅ **DevOps Professional Certificate** – PagerDuty & LinkedIn
 - ✅ **CI/CD with Auro Edu** – 100% score
